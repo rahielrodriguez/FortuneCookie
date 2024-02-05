@@ -1,4 +1,10 @@
-﻿Option Strict On
+﻿'Rahiel Rodriguez
+'RCET0265
+'Spring 2024
+'Fortune Cookie
+'https://github.com/rahielrodriguez/FortuneCookie.git
+
+Option Strict On
 Option Explicit On
 
 Module FortuneCookie
